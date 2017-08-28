@@ -34,5 +34,5 @@ src/gz chaos_calmer_management http://mirrors.hustunique.com/openwrt/ar71xx/nand
 
 如果你的opkg默认使用的不是`chaos_calmer/15.05.1`，**请勿使用此镜像源**。
 
-建议阅读[官方文档](https://wiki.openwrt.org/zh-cn/doc/techref/opkg)。
+建议阅读[官方文档](https://wiki.openwrt.org/zh-cn/doc/techref/opkg#配置)。
 
