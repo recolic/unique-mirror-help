@@ -1,5 +1,9 @@
 # Arch Linux ARM 源使用帮助
 
+## 同步频率
+
+每12小时
+
 ## 用法
 
 用任何你喜欢的工具编辑`/etc/pacman.d/mirrorlist`文件，将以下行添加到文件的最顶端

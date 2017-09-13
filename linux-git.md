@@ -8,3 +8,8 @@ git clone git://mirrors.hustunique.com/linux.git
 
 支持https方式访问的仓库地址为[https://mirrors.hustunique.com/gitsrv/linux.git](#)，但由于仓库体积较大，直接使用https方式clone会返回504超时，建议采用git://。
 
+
+## 同步频率
+
+每24小时
+

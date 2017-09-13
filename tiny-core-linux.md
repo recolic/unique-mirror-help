@@ -1,5 +1,9 @@
 # Tiny Core Linux 镜像源使用帮助
 
+## 同步频率
+
+每12小时
+
 ## 安装 Tiny Core Linux
 
 请参阅 [https://mirrors.hustunique.com/tinycorelinux/](https://mirrors.hustunique.com/tinycorelinux/)，此页面给出了必要的安装帮助和iso下载帮助。

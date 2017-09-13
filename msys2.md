@@ -5,6 +5,10 @@
 * MingGW: x86\_64, i686
 * MSYS: x86\_64, i686
 
+## 同步频率
+
+每12小时
+
 ## 安装
 
 访问[https://mirrors.hustunique.com/msys2/distrib/](https://mirrors.hustunique.com/msys2/distrib/)，选择需要的版本进行下载即可。
