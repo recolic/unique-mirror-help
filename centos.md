@@ -8,6 +8,10 @@ x86\_64, i386
 
 CentOS 5.x, 6.x, 7.x
 
+## 同步频率
+
+每12小时
+
 ## 用法
 
 修改前，建议先备份`CentOS-Base.repo`
@@ -17,10 +21,6 @@ mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
 ```
 
 然后选择你的CentOS版本，重写`CentOS-Base.repo`
-
-## 同步频率
-
-每12小时
 
 #### CentOS 7
 
