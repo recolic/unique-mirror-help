@@ -7,6 +7,7 @@
 * [Arch Linux CN](arch-linux-cn.md)
 * [CentOS](centos.md)
 * [CTAN](ctan.md)
+* [Deepin](deepin.md)
 * [Deepin CD](deepin-cd.md)
 * [Linux \(git\)](linux-git.md)
 * [Linux Mint](linuxmint.md)
