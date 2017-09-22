@@ -9,7 +9,6 @@
 * [CentOS](centos.md)
 * [CTAN](ctan.md)
 * [Deepin](deepin.md)
-* [Deepin CD](deepin-cd.md)
 * [Linux \(git\)](linux-git.md)
 * [Linux Mint](linuxmint.md)
 * [msys2](msys2.md)
