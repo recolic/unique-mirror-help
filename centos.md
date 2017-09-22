@@ -12,7 +12,11 @@ CentOS 5.x, 6.x, 7.x
 
 每12小时
 
-## 用法
+## 下载系统安装镜像
+
+进入[镜像站](https://mirrors.hustunique.com/centos)，进入目录`/版本号/isos/$arch`并选择恰当的镜像即可。
+
+## 使用软件仓库镜像
 
 修改前，建议先备份`CentOS-Base.repo`
 
