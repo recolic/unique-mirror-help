@@ -1,6 +1,7 @@
 # Summary
 
 * [Index](README.md)
+* [Releases](cds.md)
 * [Apache Projects](apache-projects.md)
 * [Arch Linux](arch-linux.md)
 * [Arch Linux ARM](arch-linux-arm.md)
