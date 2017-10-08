@@ -8,9 +8,9 @@ ArchLinux ArchLinuxARM CentOS Deepin LinuxMint TiniCoreLinux Ubuntu
 
 CTAN mingw/msys2
 
-## 同步频率
+## 与上游的同步延时
 
-每12小时检查
+不多于48小时
 
 ## 下载
 
