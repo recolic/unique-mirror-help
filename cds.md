@@ -26,6 +26,5 @@ CTAN mingw/msys2
 
 - TiniCoreLinux [Here](https://mirrors.hustunique.com/tinycorelinux/downloads.html)
 
-- Ubuntu [12.04](https://mirrors.hustunique.com/ubuntu-release/12.04/) [12.04.5](https://mirrors.hustunique.com/ubuntu-release/12.04.5/) [14.04](https://mirrors.hustunique.com/ubuntu-release/14.04/) [14.04.5](https://mirrors.hustunique.com/ubuntu-release/14.04.5/) [15.04](https://mirrors.hustunique.com/ubuntu-release/15.04/) [16.04](https://mirrors.hustunique.com/ubuntu-release/16.04/) [16.04.3](https://mirrors.hustunique.com/ubuntu-release/16.04.3/) [17.04](https://mirrors.hustunique.com/ubuntu-release/17.04/)
-
+- Ubuntu [12.04](https://mirrors.hustunique.com/ubuntu-release/12.04/) [12.04.5](https://mirrors.hustunique.com/ubuntu-release/12.04.5/) [14.04](https://mirrors.hustunique.com/ubuntu-release/14.04/) [14.04.5](https://mirrors.hustunique.com/ubuntu-release/14.04.5/) [15.04](https://mirrors.hustunique.com/ubuntu-release/15.04/) [16.04](https://mirrors.hustunique.com/ubuntu-release/16.04/) [16.04.3](https://mirrors.hustunique.com/ubuntu-release/16.04.3/) [17.04](https://mirrors.hustunique.com/ubuntu-release/17.04/) [17.10](https://mirrors.hustunique.com/ubuntu-release/17.10/)
 
