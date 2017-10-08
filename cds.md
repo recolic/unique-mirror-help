@@ -2,7 +2,7 @@
 
 ## 支持的Linux发行版
 
-ArchLinux ArchLinuxARM CentOS Deepin TiniCoreLinux Ubuntu 
+ArchLinux ArchLinuxARM CentOS Deepin LinuxMint TiniCoreLinux Ubuntu 
 
 ## 支持的其他软件发行镜像
 
